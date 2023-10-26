@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swe-jaffar&label=Profile%20views&color=0e75b6&style=flat" alt="swe-jaffar" /> </p>
 
-- 🌱 I’m currently learning **React, React native , Spring Boot.**
+- 🌱 I’m currently learning **React, React native , ASP.NET.**
 
 - 📝 I regularly write articles on my LinkedIn [https://www.linkedin.com/in/jaffaralmoalem/](https://www.linkedin.com/in/jaffaralmoalem/)
 
